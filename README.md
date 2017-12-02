@@ -13,4 +13,11 @@ while creating these classes we use interface.. hence coding to interfaces.
 
 ** Prefer Composition over inheritance.
 
-2. Observer:
+2. Observer: Publisher Subscriber model
+
+** always try to loosely couple the objects that interact
+
+
+3. Decorator: open close principle
+open for extension
+close for modification
